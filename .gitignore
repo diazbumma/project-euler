@@ -1,3 +1,11 @@
+# Ignoring idea
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
 # Compiled class file
 *.class
 
